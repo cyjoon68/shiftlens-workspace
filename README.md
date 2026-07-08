@@ -1,6 +1,6 @@
 # ShiftLens Workspace
 
-ShiftLens는 제조 현장의 교대조 인수인계와 설비 알림 대응을 제품화한 포트폴리오 프로젝트입니다.
+ShiftLens는 제조 현장의 교대조 인수인계와 설비 알림 대응을 제품화한 서비스 프로젝트입니다.
 
 ## 저장소 구조
 
@@ -24,6 +24,6 @@ FE/BE는 Git submodule로 연결되어 있습니다.
 git clone --recurse-submodules https://github.com/shiftlens-labs/shiftlens-workspace.git
 ```
 
-## 포트폴리오 포인트
+## 프로젝트 포인트
 
 운영자가 실제 교대 상황에서 쓰는 handoff, alert, action, audit 흐름을 FE/BE로 분리해 구성했습니다.
