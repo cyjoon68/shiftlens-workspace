@@ -1,0 +1,8 @@
+[submodule "shiftlens-fe"]
+	path = shiftlens-fe
+	url = https://github.com/shiftlens-labs/shiftlens-fe.git
+	branch = develop
+[submodule "shiftlens-be"]
+	path = shiftlens-be
+	url = https://github.com/shiftlens-labs/shiftlens-be.git
+	branch = develop
