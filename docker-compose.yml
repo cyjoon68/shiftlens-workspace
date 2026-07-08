@@ -1,0 +1,5 @@
+services:
+  shiftlens-fe:
+    build: ./shiftlens-fe
+  shiftlens-be:
+    build: ./shiftlens-be
